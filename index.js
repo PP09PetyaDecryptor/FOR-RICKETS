@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["GD: PetyaDecryptor","GD 2: PP09StudiosPL","Remember! Do Not Disturb is bot offline, Active is bot online, and Inactive is fixing the bot.","Open ticket with Report Bug to report me and other bots!"];
 
 
 let currentIndex = 0;
