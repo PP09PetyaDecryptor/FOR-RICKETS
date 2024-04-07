@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Do not disturb = offline","Inactive = fixing","Thank you for joining us!","Active = online"];
 
 
 let currentIndex = 0;
