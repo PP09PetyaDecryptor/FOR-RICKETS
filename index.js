@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Do not disturb = offline","Inactive = fixing","Thank you for joining us!","Active = online"];
+const statusMessages = ["Nie przeszkadzac = offline","Nieaktywny = naprawianie","Aktywny = online"];
 
 
 let currentIndex = 0;
