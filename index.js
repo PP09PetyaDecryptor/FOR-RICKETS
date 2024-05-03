@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Nie przeszkadzac = offline","Nieaktywny = naprawianie","Aktywny = online"];
+const statusMessages = ["PP09 na TOPIE! | Tickety"];
 
 
 let currentIndex = 0;
